@@ -274,7 +274,7 @@ margin-bottom: 0px;
     width: 100px;
     height: 476px;
     position: absolute;
-    right: 0%;
+    right: 12%;
     top: -18%;
     z-index: -1;
 }
@@ -369,6 +369,7 @@ margin-bottom: 0px;
     color: #797979;
 }
 /* End About */
+<<<<<<< HEAD
 /* Start Contact */
 .contact{
     padding-top: 100px;
@@ -417,3 +418,5 @@ font-size: 18px;
     font-weight: bold;
 }
 /* End Footer */
+=======
+>>>>>>> da854792e25953513adb53cb3410eeaea31ca394
