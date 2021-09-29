@@ -1,5 +1,7 @@
 /* Start Variables */
-
+*{
+    
+}
 /* End Variables */
 /* Start Global Rules */
 *{
@@ -48,6 +50,11 @@ body{
         flex-direction: column;
        text-align: center ;
     }
+    .services .contian .textgray{
+        font-size: 60px;
+        margin-bottom: 12px;
+    }
+
 }
 /* End Global Rules */
 
@@ -200,12 +207,12 @@ margin-bottom: 0px;
     letter-spacing: -3px;
 }
 .contian{
-    margin: -50px 0 0 0;
+    margin-top: -50px;
     text-align: center;
 }
 .services .pgray{
     color: #797979;
-    margin: -30px 0;
+    margin: -30px 0 0;
     font-size: 20px;
 }
 
